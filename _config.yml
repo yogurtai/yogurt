@@ -2,6 +2,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ultimate Yogurt website
 
 url: "https://www.yogurt.ai"
+
+
+google_analytics: UA-132777834-2
+
 markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
