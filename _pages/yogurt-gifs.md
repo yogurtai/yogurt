@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title:  "Yogurt gifs"
 permalink: /yogurt-gifs
 tags: [yogurt, gifs, funny]
